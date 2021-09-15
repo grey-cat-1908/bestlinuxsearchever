@@ -1,0 +1,74 @@
+{
+  "ubuntu":{
+    "text":"САМЫЙ ПОПУЛЯРНЫЙ ДИСТРИБУТИВ В МИРЕ!!!!!!! ПОДХОДИТ ДЛЯ СЕРВЕРА И ДЛЯ ДОМАШНЕЙ СИСТЕМЫ!!! НО ВБРАВЛ СТАРС ТАМ ИГРАТЬ НЕЛЬЗЯ!!! НЕ СТАВЬТЕ!!!",
+    "tags":[
+      "server",
+      "no_windows",
+      "coder",
+      "easy",
+      "beautiful"
+    ],
+    "name": "Ubuntu",
+    "avatar": "https://timeweb.com/ru/community/article/bf/bff74fd6c155da6063e2e2c0a967a7fc.jpg",
+    "url": "https://ubuntu.com/"
+  },
+  "debian":{
+    "text":"ПОДХОДИТ ТОЛЬКО ДЛЯ СЕРВЕРА!!!!!! НЕ СТАВЬТЕ!!!",
+    "tags":[
+      "server",
+      "coder",
+      "easy"
+    ],
+    "name": "Debian",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeB75Jm-X0omV6s8behUM3hR-_S6yeSeKM1g&usqp=CAU",
+    "url": "https://debian.org/"
+  },
+  "arch":{
+    "text":"САМЫЙ СЛОЖНЫЙ В МИРЕ ДИСТРИБУТИВ!!!!! ПОДХОДИТ ТОЛЬКО ДЛЯ САМЫХ ОПЫТНЫХ В МИРЕ ПРОГРАММИСТОВ!!!!!! НИКОГДА НЕ СТАВЬТЕ!!!",
+    "tags":[
+      "server",
+      "coder"
+    ],
+    "name": "Arch",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxE7eDWJ8pPMZukJEkeIMwber5Ux1pd-T0w&usqp=CAU",
+    "url": "https://archlinux.org/"
+  },
+  "manjaro":{
+    "text":"КАК И АРЧ ОЧЕНЬ СЛОЖЕН!!!!! НО ПОДХОДИТ И КАК ЗАМЕНА ВИНДОВС!!! НЕ РЕКОМЕНДУЕТСЯ К ИСПОЛЬЗОВАНИЮ!!!",
+    "tags":[
+      "no_windows",
+      "coder",
+      "beautiful"
+    ],
+    "name": "Manjaro",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM9n9AR9qJlwc2X6YvRSj5f3Uv0Q5mJPeUCFmSF5p3-1pN-H--9232o1NWLwdims3TiM&usqp=CAU",
+    "url": "https://manjaro.ru/"
+  },
+  "kali":{
+    "text":"САМЫЙ ЛУЧШИЙ ДИСТРИБУТИВ ЛИНУКС ДЛЯ ВЗЛОМОВ! ИСПОЛЬЗУЮТ САМЫЕ КРУТЫЕ ХАКЕРЫ В МИРЕ!!!!! ЛУЧШИЙ ИЗ ЛИНУКС!!!",
+    "tags":[
+      "no_windows",
+      "coder",
+      "hack",
+      "easy"
+    ],
+    "name": "Kali Linux",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKtcScATI-gzvNmaxdMT8_R2Q0zDHbkrFL9L8DoHdCoh0zU6kQbwPZpe6Nkdn5saCpk8&usqp=CAU",
+    "url": "https://kali.org"
+  },
+  "windows":{
+    "text":"САМАЯ ЛУЧШАЯ В МИРЕ ОС!!!! ТАМ МОЖНО ИГРАТЬ В БРАВЛ СТАРС С НАШЕГО ВТОРОГО САЙТА ТОЧНОБРАВЛДЛЯВИНДЫ.БРАВЛ!!!!",
+    "tags":[
+      "server",
+      "no_windows",
+      "coder",
+      "easy",
+      "hack",
+      "gaming",
+      "beautiful"
+    ],
+    "name": "Windows",
+    "avatar": "https://www.easd-design.com/wp-content/uploads/2019/11/brawl-stars-for-pc-600x300.jpg",
+    "url": "https://www.microsoft.com/ru-ru/windows/"
+  }
+}
